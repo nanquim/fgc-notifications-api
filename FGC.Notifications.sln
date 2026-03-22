@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FGC.Notifications.Infrastru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FGC.Notifications.Api", "FGC.Notifications.Api\FGC.Notifications.Api.csproj", "{5C1A62AF-BA75-4263-995E-D13E63555201}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FGC.Notifications.Tests", "FGC.Notifications.Tests\FGC.Notifications.Tests.csproj", "{0BED6B86-6830-42EF-ABA6-284D3B30B748}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{5C1A62AF-BA75-4263-995E-D13E63555201}.Release|x64.Build.0 = Release|Any CPU
 		{5C1A62AF-BA75-4263-995E-D13E63555201}.Release|x86.ActiveCfg = Release|Any CPU
 		{5C1A62AF-BA75-4263-995E-D13E63555201}.Release|x86.Build.0 = Release|Any CPU
+		{0BED6B86-6830-42EF-ABA6-284D3B30B748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BED6B86-6830-42EF-ABA6-284D3B30B748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BED6B86-6830-42EF-ABA6-284D3B30B748}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0BED6B86-6830-42EF-ABA6-284D3B30B748}.Debug|x64.Build.0 = Debug|Any CPU
+		{0BED6B86-6830-42EF-ABA6-284D3B30B748}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0BED6B86-6830-42EF-ABA6-284D3B30B748}.Debug|x86.Build.0 = Debug|Any CPU
+		{0BED6B86-6830-42EF-ABA6-284D3B30B748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BED6B86-6830-42EF-ABA6-284D3B30B748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BED6B86-6830-42EF-ABA6-284D3B30B748}.Release|x64.ActiveCfg = Release|Any CPU
+		{0BED6B86-6830-42EF-ABA6-284D3B30B748}.Release|x64.Build.0 = Release|Any CPU
+		{0BED6B86-6830-42EF-ABA6-284D3B30B748}.Release|x86.ActiveCfg = Release|Any CPU
+		{0BED6B86-6830-42EF-ABA6-284D3B30B748}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
